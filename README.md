@@ -1,4 +1,4 @@
-### Higher Order Components ###
+### Styled Components ###
 
 This is React JS library that uses bootstrap to create simple and easy to use components. 
 
